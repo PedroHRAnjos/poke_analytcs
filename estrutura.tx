@@ -1,0 +1,11 @@
+pokéanalytics/
+├── data/
+│   ├── raw/           # Dados brutos da API
+│   ├── processed/     # Dados estruturados
+│   └── outputs/       # Análises e visualizações
+├── src/
+│   ├── data_collection.py
+│   ├── data_processing.py
+│   └── analysis.py
+├── notebooks/         # Jupyter notebooks de análise
+└── docs/             # Documentação
