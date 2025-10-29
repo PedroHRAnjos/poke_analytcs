@@ -1,0 +1,7 @@
+# Stack Técnica Sugerida
+- Linguagem: Python 3.x
+- Coleta: requests, Pokémon API
+- Análise: pandas, numpy
+- Visualização: matplotlib, seaborn, plotly
+- Armazenamento: CSV, JSON, SQLite
+- Ambiente: Jupyter Notebook / VS Code
